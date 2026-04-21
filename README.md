@@ -1,4 +1,7 @@
 # ABM Personas - Proyecto Final
+vista previa del sistema
+<img width="1042" height="523" alt="Captura" src="https://github.com/user-attachments/assets/56432cee-86a7-4b1c-b0cc-cef1aaa46f2f" />
+
 
 Aplicacion de escritorio WinForms para gestionar Personas (alta, baja, modificacion y consulta) con persistencia real en SQL Server.
 
